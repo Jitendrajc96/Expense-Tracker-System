@@ -1,0 +1,12 @@
+.profileButton{
+    float: right;
+    font-style: italic;
+    margin-right: 20px;
+}
+.welcomeContent{
+    float: left;
+    margin-left: 20px;
+}
+.header{
+    margin-top: 20px;
+}   
