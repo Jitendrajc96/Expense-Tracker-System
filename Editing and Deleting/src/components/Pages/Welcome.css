@@ -1,0 +1,44 @@
+.profileButton{
+    float: right;
+    font-style: italic;
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+    background-color:  #38015c;
+    border-radius: 5px;
+
+}
+.welcomeContent{
+.profileButton:hover{
+    background-color: purple;
+
+}
+
+.logoutbtn{
+    float: left;
+    margin-left: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+    background-color:  #38015c;
+    border-radius: 5px;
+    border: none;
+}
+.logoutbtn:hover{
+    background-color: purple;
+}
+
+.welcomeContent{
+    float: left;
+
+}
+.header{
+    margin-top: 20px;
+}
